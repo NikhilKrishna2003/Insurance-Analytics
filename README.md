@@ -51,7 +51,7 @@ Excel was used for data preparation, KPI calculations, and branch-level performa
 
 # 📘 Tableau Dashboard – Business Performance
 
-![Tableau Dashboard](Images/tableau_Dashboard.png)
+![Tableau Dashboard](Images/tableau_dashboard.png)
 
 ### 🔎 Overview
 Tableau dashboard visualizes revenue, pipeline stages, meetings, and executive productivity.
