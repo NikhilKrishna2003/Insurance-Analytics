@@ -51,7 +51,7 @@ Excel was used for data preparation, KPI calculations, and branch-level performa
 
 # 📘 Tableau Dashboard – Business Performance
 
-![Tableau Dashboard](Images/tableau_img.png)
+![Tableau Dashboard](Images/tableau_Dashboard.png)
 
 ### 🔎 Overview
 Tableau dashboard visualizes revenue, pipeline stages, meetings, and executive productivity.
@@ -79,7 +79,7 @@ Tableau dashboard visualizes revenue, pipeline stages, meetings, and executive p
 
 # 📙 Power BI Dashboard – Executive Insights
 
-![Power BI Dashboard](Images/powerbi_img.jpeg)
+![Power BI Dashboard](Images/powerbi_dashboard.jpeg)
 
 ### 🔎 Overview
 Power BI report focuses on executive KPIs and achievement tracking.
